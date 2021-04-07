@@ -26,7 +26,7 @@ GEM
     cri (2.7.0)
       colored (~> 1.2)
     execjs (2.7.0)
-    ffi (1.9.14)
+    ffi (1.15.0)
     font-awesome-sass (4.3.2.1)
       sass (~> 3.2)
     formatador (0.2.5)
